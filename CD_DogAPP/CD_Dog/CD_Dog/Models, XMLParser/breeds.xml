@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breeds>
+    <dog>
+        <breed>Cavapoo</breed>
+        <traits>Friendly, Active</traits>
+        <origin>Australia</origin>
+        <image>cavapoo.png</image>
+        <url>https://www.petplan.co.uk/pet-information/dog/breed/cavapoo/</url>
+     
+    </dog>
+    <dog>
+        <breed>Yorkshire Terrier</breed>
+        <traits>Spirited, Confident</traits>
+        <origin>United Kingdom</origin>
+        <image>Yorkshire-Terrier.png</image>
+        <url>https://www.petplan.co.uk/pet-information/dog/breed/yorkshire-terrier/</url>
+    
+
+    </dog>
+    <dog>
+        <breed>Chihuahua</breed>
+        <traits>Feisty, Ankle Biter</traits>
+        <origin>Mexico</origin>
+        <image>chi.png</image>
+        <url>https://www.petplan.co.uk/pet-information/dog/breed/chihuahua/</url>
+    
+
+    </dog>
+    <dog>
+        <breed>German Mittlespitz</breed>
+        <traits>Intelligent, Devoted</traits>
+        <origin>Germany</origin>
+        <image>Mittlespitz.png</image>
+        <url>https://www.akc.org/dog-breeds/german-spitz/</url>
+        
+
+    </dog>
+    <dog>
+        <breed>Portuguese Waterdog</breed>
+        <traits>Intelligent, Energetic</traits>
+        <origin>Portugal</origin>
+        <image>Portuguese_Water_Dog.png</image>
+        <url>https://www.akc.org/dog-breeds/portuguese-water-dog/</url>
+        
+
+    </dog>
+    
+    <dog>
+        <breed>Basset Hound</breed>
+        <traits>Gentle, Tenacious</traits>
+        <origin>France</origin>
+        <image>basset-hound.png</image>
+        <url>https://www.akc.org/dog-breeds/basset-hound/</url>
+        
+
+    </dog>
+    <dog>
+        <breed>Cocker Spaniel</breed>
+        <traits>Loyal, Lively</traits>
+        <origin> United Kingdom </origin>
+        <image>cocker-spaniel.png</image>
+        <url>https://www.petplan.co.uk/pet-information/dog/breed/cocker-spaniel/</url>
+   
+
+    </dog>
+    <dog>
+        <breed>Welsh Corgi</breed>
+        <traits>Happy, Stubborn</traits>
+        <origin>Wales(UK)</origin>
+        <image>welsh-corgi.png</image>
+        <url>https://www.akc.org/dog-breeds/pembroke-welsh-corgi/</url>
+    
+
+    </dog>
+    <dog>
+        <breed>Afghan Hound</breed>
+        <traits>Aloof, Independent</traits>
+        <origin>Afghanistan</origin>
+        <image>afghan-hound.png</image>
+        <url>https://www.akc.org/dog-breeds/afghan-hound/</url>
+    
+
+    </dog>
+    <dog>
+        <breed>Shiba Inu</breed>
+        <traits>Faithful, Courageous</traits>
+        <origin>Japan</origin>
+        <image>shiba-inu.png</image>
+        <url>https://www.petplan.co.uk/pet-information/dog/breed/shiba-inu/</url>
+   
+
+    </dog>
+    
+    <dog>
+        <breed>Great Dane</breed>
+        <traits>Playful, Affectionate</traits>
+        <origin>Germany</origin>
+        <image>great-dane.png</image>
+        <url>https://www.akc.org/dog-breeds/great-dane/</url>
+      
+
+    </dog>
+    <dog>
+        <breed>Irish Wolfhound</breed>
+        <traits>Gentle, Sensitive</traits>
+        <origin>Ireland</origin>
+        <image>irish-wolfhound.png</image>
+        <url>https://www.akc.org/dog-breeds/irish-wolfhound/</url>
+   
+
+    </dog>
+</breeds>
+
